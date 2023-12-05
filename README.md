@@ -1,2 +1,3 @@
 # RG-Igra
-Proekt Računalniška Grafika
+
+Proekt Računalniška Grafika - Bojan Spasovski & Anastasija Djajkovska
